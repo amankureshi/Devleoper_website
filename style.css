@@ -151,12 +151,17 @@
                 text-align: center;
             }
 
+            .text_container h2 {
+                margin-top: 1rem;
+                font-size: 1.4rem;
+            }
+
             .large_text {
-                font-size: 32px;
+                font-size: 1.4rem;
             }
 
             .black_section h2 {
-                font-size: 24px;
+                font-size: 1.2rem;
             }
 
             .black_section h2 span {
@@ -177,4 +182,7 @@
                 font-size: 32px;
             }
 
+            .grid_section {
+                margin: 1rem;
+            }
         }
